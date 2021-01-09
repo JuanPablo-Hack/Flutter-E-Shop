@@ -1,17 +1,16 @@
-[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/abuanwar072/E-commerce-App-UI-Flutter)
 
 # E-commerce App - Flutter UI
 
-## [Watch it on YouTube](https://youtu.be/XBKzpTz65Io)
 
-**Packages we are using:**
+
+**Paquetes que se usan:**
 
 - flutter_svg: [link](https://pub.dev/packages/flutter_svg)
 
 
-On our E-commerce app UI has two pages one for the product page which has a horizontal list of categories then a list of our products. Then on the details page, it shows the price and short description of the product with the Buy Now button. The best part of our E-commerce app is, each product has its own color which looks great.
+En nuestra aplicación de comercio electrónico, la interfaz de usuario tiene dos páginas, una para la página del producto que tiene una lista horizontal de categorías y luego una lista de nuestros productos. Luego, en la página de detalles, muestra el precio y una breve descripción del producto con el botón Comprar ahora. La mejor parte de nuestra aplicación de comercio electrónico es que cada producto tiene su propio color que se ve muy bien.
 
-### E-commerce App Final UI
+### E-commerce App UI
 
 ![intro](intro.gif)
 
